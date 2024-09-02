@@ -1,0 +1,10 @@
+Data/
+logs/
+
+# Ignore Python virtual environments
+venv/
+
+Data/raw_analyst_ratings.csv
+
+git clone --bare https://github.com/username/repo.git
+cd repo.git
